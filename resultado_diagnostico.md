@@ -1,6 +1,6 @@
 ===============================================
  REPORTE DE DIAGNÓSTICO DEL SISTEMA
- Fecha y Hora: 2026-10-29 02:55:21
+ Fecha y Hora: 2026-10-29 03:08:38
 ===============================================
 
 [1. DISCO] Estado del almacenamiento principal (/):
@@ -9,11 +9,11 @@ Filesystem                         Size  Used Avail Use% Mounted on
 
 [2. MEMORIA] Uso de RAM y Swap (en MB):
                total        used        free      shared  buff/cache   available
-Mem:            1642         354        1028           1         404        1288
+Mem:            1642         385         885           1         519        1257
 Swap:           2043           0        2043
 
 [3. CPU] Tiempo de actividad y carga promedio:
- 02:55:21 up 7 min,  2 users,  load average: 0,01, 0,08, 0,07
+ 03:08:38 up 20 min,  2 users,  load average: 0,01, 0,04, 0,02
 
 [4. RED] Dirección IP interna:
 192.168.100.13

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define el archivo de salida y el servicio a revisar (por defecto sshd)
-LOG_FILE="resultado_diagnostico.txt"
+LOG_FILE="resultado_diagnostico.md"
 SERVICIO=${1:-sshd}
 FECHA=$(date '+%Y-%m-%d %H:%M:%S')
 
